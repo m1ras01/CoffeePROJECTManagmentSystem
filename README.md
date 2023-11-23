@@ -92,7 +92,5 @@ And implements concrete handlers for different discount scenarios
 3. Completing features
    - Implement the function of sending email messages to suppliers
 
-### References:
+![image](https://github.com/m1ras01/CoffeePROJECTManagmentSystem/assets/123997571/b376670d-bcbf-4f03-b68f-d4f1a68a3928)
 
-- Freeman, E. (n.d.). Head First Design Patterns, 2nd Edition. O’Reilly Online Learning. https://www.oreilly.com/library/view/head-first-design/9781492077992/?_gl=1*1y65lth*_ga*OTY0MzMzMjEyLjE3MDA0MTQ3ODg.*_ga_092EL089CH*MTcwMDQxNDc4OC4xLjEuMTcwMDQxNDgwMS40Ny4wLjA.
-- Refactoring.Guru / Рефакторинг.Гуру. (n.d.). [Рефакторинг и Паттерны проектирования](https://refactoring.guru/ru)
