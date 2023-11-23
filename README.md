@@ -93,4 +93,11 @@ And implements concrete handlers for different discount scenarios
    - Implement the function of sending email messages to suppliers
 
 ![image](https://github.com/m1ras01/CoffeePROJECTManagmentSystem/assets/123997571/b376670d-bcbf-4f03-b68f-d4f1a68a3928)
+![image](https://github.com/m1ras01/CoffeePROJECTManagmentSystem/assets/123997571/e6bf2f26-5b85-47c2-824b-b7e0a57ac987)
+![image](https://github.com/m1ras01/CoffeePROJECTManagmentSystem/assets/123997571/fa6efca7-d816-404c-8d28-42dd48b9ddd2)
+![image](https://github.com/m1ras01/CoffeePROJECTManagmentSystem/assets/123997571/87163123-4a70-40e5-a608-5fc5e31f4e2e)
+![image](https://github.com/m1ras01/CoffeePROJECTManagmentSystem/assets/123997571/c39a0dc2-72f7-4c68-bf7a-84a3b499f2ab)
+![image](https://github.com/m1ras01/CoffeePROJECTManagmentSystem/assets/123997571/db03d18a-2c6f-49b0-9470-4bf77af2de75)
+![image](https://github.com/m1ras01/CoffeePROJECTManagmentSystem/assets/123997571/3534a832-e8b3-4f3e-9028-00410eba04b2)
+
 
